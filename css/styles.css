@@ -2359,7 +2359,6 @@ header .menu .menu-toggle {
 }
 header .menu .logo {
   height: 1.5625rem;
-  cursor: pointer;
 }
 header .menu .navigation {
   display: flex;
